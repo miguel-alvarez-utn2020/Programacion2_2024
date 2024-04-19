@@ -3,21 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34601.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1Ejercicio1", "Clase1Ejercicio1\Clase1Ejercicio1.csproj", "{40309F16-1FD2-46FF-A270-972FEAF573B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase1Ejercicio1", "Clase1Ejercicio1\Clase1Ejercicio1.csproj", "{40309F16-1FD2-46FF-A270-972FEAF573B1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tema 01 - Introducción a .NET y C#", "Tema 01 - Introducción a .NET y C#", "{4205F6BB-4242-4084-96C7-E05F4E3023F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1Ejercicio2", "Clase1Ejercicio2\Clase1Ejercicio2.csproj", "{51DB1422-70FF-4E79-86E8-EEAE7CBE467E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase1Ejercicio2", "Clase1Ejercicio2\Clase1Ejercicio2.csproj", "{51DB1422-70FF-4E79-86E8-EEAE7CBE467E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1Ejercicio1Alternativo", "Clase1Ejercicio1Alternativo\Clase1Ejercicio1Alternativo.csproj", "{302901E7-2418-4EA7-9AB2-33B5FC06D2D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase1Ejercicio1Alternativo", "Clase1Ejercicio1Alternativo\Clase1Ejercicio1Alternativo.csproj", "{302901E7-2418-4EA7-9AB2-33B5FC06D2D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase2Ejerciocio1", "Clase2Ejerciocio1\Clase2Ejerciocio1.csproj", "{D9D5596B-4005-47A2-9B66-EBEBB6D24540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase2Ejerciocio1", "Clase2Ejerciocio1\Clase2Ejerciocio1.csproj", "{D9D5596B-4005-47A2-9B66-EBEBB6D24540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaClases", "BibliotecaClases\BibliotecaClases.csproj", "{CF1DE392-CDF2-482D-8DE7-1BFEDBC2002F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaClases", "BibliotecaClases\BibliotecaClases.csproj", "{CF1DE392-CDF2-482D-8DE7-1BFEDBC2002F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tema 02 - Clases y métodos estáticos", "Tema 02 - Clases y métodos estáticos", "{60238AA0-1D18-4487-936B-4871C4DF5077}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase2Ejercicio2", "Clase2Ejercicio2\Clase2Ejercicio2.csproj", "{147AD134-FA9E-4DE8-AA19-51ACB6505880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase2Ejercicio2", "Clase2Ejercicio2\Clase2Ejercicio2.csproj", "{147AD134-FA9E-4DE8-AA19-51ACB6505880}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tema 03 - Programación orientada a objetos", "Tema 03 - Programación orientada a objetos", "{D258167E-24EA-4381-A27A-AA5581F7D38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3Ejercicio1", "Clase3Ejercicio1\Clase3Ejercicio1.csproj", "{57008939-70F8-417B-A64E-0662F3FF0613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3Ejercicio2", "Clase3Ejercicio2\Clase3Ejercicio2.csproj", "{1A3766B8-A99B-478F-B594-5B59C574515C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase1Ejercicio4", "Clase1Ejercicio4\Clase1Ejercicio4.csproj", "{6DAA882D-7D36-4741-A8E8-718C8865B474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3Ejecicio3", "Clase3Ejecicio3\Clase3Ejecicio3.csproj", "{72623D72-9927-48D7-8C68-4BCAEE5BDCB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +59,22 @@ Global
 		{147AD134-FA9E-4DE8-AA19-51ACB6505880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{147AD134-FA9E-4DE8-AA19-51ACB6505880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{147AD134-FA9E-4DE8-AA19-51ACB6505880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57008939-70F8-417B-A64E-0662F3FF0613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57008939-70F8-417B-A64E-0662F3FF0613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57008939-70F8-417B-A64E-0662F3FF0613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57008939-70F8-417B-A64E-0662F3FF0613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A3766B8-A99B-478F-B594-5B59C574515C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3766B8-A99B-478F-B594-5B59C574515C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3766B8-A99B-478F-B594-5B59C574515C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3766B8-A99B-478F-B594-5B59C574515C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DAA882D-7D36-4741-A8E8-718C8865B474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAA882D-7D36-4741-A8E8-718C8865B474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAA882D-7D36-4741-A8E8-718C8865B474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAA882D-7D36-4741-A8E8-718C8865B474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72623D72-9927-48D7-8C68-4BCAEE5BDCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72623D72-9927-48D7-8C68-4BCAEE5BDCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72623D72-9927-48D7-8C68-4BCAEE5BDCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72623D72-9927-48D7-8C68-4BCAEE5BDCB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +84,10 @@ Global
 		{51DB1422-70FF-4E79-86E8-EEAE7CBE467E} = {4205F6BB-4242-4084-96C7-E05F4E3023F7}
 		{302901E7-2418-4EA7-9AB2-33B5FC06D2D1} = {4205F6BB-4242-4084-96C7-E05F4E3023F7}
 		{D9D5596B-4005-47A2-9B66-EBEBB6D24540} = {60238AA0-1D18-4487-936B-4871C4DF5077}
+		{147AD134-FA9E-4DE8-AA19-51ACB6505880} = {60238AA0-1D18-4487-936B-4871C4DF5077}
+		{57008939-70F8-417B-A64E-0662F3FF0613} = {D258167E-24EA-4381-A27A-AA5581F7D38A}
+		{1A3766B8-A99B-478F-B594-5B59C574515C} = {D258167E-24EA-4381-A27A-AA5581F7D38A}
+		{6DAA882D-7D36-4741-A8E8-718C8865B474} = {4205F6BB-4242-4084-96C7-E05F4E3023F7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {82699E87-C8D0-4143-9BF5-3892461A098F}

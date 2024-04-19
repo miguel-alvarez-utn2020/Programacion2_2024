@@ -1,0 +1,15 @@
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\bin\Debug\net8.0\Clase1Ejercicio1.exe
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\bin\Debug\net8.0\Clase1Ejercicio1.deps.json
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\bin\Debug\net8.0\Clase1Ejercicio1.runtimeconfig.json
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\bin\Debug\net8.0\Clase1Ejercicio1.dll
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\bin\Debug\net8.0\Clase1Ejercicio1.pdb
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\obj\Debug\net8.0\Clase1Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\obj\Debug\net8.0\Clase1Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\obj\Debug\net8.0\Clase1Ejercicio1.AssemblyInfo.cs
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\obj\Debug\net8.0\Clase1Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\obj\Debug\net8.0\Clase1Ejercicio1.sourcelink.json
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\obj\Debug\net8.0\Clase1Ejercicio1.dll
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\obj\Debug\net8.0\refint\Clase1Ejercicio1.dll
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\obj\Debug\net8.0\Clase1Ejercicio1.pdb
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\obj\Debug\net8.0\Clase1Ejercicio1.genruntimeconfig.cache
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\Clase1Ejercicio1\obj\Debug\net8.0\ref\Clase1Ejercicio1.dll

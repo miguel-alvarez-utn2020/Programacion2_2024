@@ -1,0 +1,12 @@
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\bin\Debug\net8.0\BibliotecaClases.deps.json
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\bin\Debug\net8.0\BibliotecaClases.dll
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\bin\Debug\net8.0\BibliotecaClases.pdb
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.AssemblyInfoInputs.cache
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.AssemblyInfo.cs
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.sourcelink.json
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.dll
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\obj\Debug\net8.0\refint\BibliotecaClases.dll
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.pdb
+C:\Users\Ayi Group\Desktop\Programacion2_2024\EjerciciosUTN\BibliotecaClases\obj\Debug\net8.0\ref\BibliotecaClases.dll
